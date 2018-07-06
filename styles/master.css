@@ -1,0 +1,10 @@
+.svg-container {
+  width: 45vw;
+  height: auto;
+  float: left; }
+
+.svg-container-2 {
+  width: 20vw;
+  height: auto;
+  float: left;
+  padding-top: 5%; }
