@@ -4,4 +4,4 @@
 
 ### Built in Illustrator, animated and rendered in After Effects. 
 
-### Link --> https://adam-86.github.io/svg-animations/
+### Link --> https://adam-86.github.io/SVG-animations/
