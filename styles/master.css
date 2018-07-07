@@ -1,10 +1,23 @@
 .svg-container {
-  width: 45vw;
+  width: 60%;
+  overflow: hidden;
   height: auto;
   float: left; }
 
 .svg-container-2 {
-  width: 20vw;
+  width: 30%;
   height: auto;
   float: left;
   padding-top: 5%; }
+
+div.svg-container-3 {
+  position: absolute;
+  left: 0;
+  top: 35vw;
+  width: 35vw;
+  height: 35vw;
+  max-width: 400px;
+  max-height: 400px;
+  overflow: hidden; }
+  div.svg-container-3 svg {
+    background-color: #abd3da; }

@@ -17,3 +17,13 @@ const animation2 = bodymovin.loadAnimation({
   autoplay: true,
   path: 'spinner.json'
 });
+
+const svgContainer3 = document.querySelector('.svg-container-3');
+
+const animation3 = bodymovin.loadAnimation({
+  container: svgContainer3,
+  renderer: 'svg',
+  loop: true,
+  autoplay: true,
+  path: 'fish.json'
+});
