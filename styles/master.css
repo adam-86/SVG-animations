@@ -21,3 +21,8 @@ div.svg-container-3 {
   overflow: hidden; }
   div.svg-container-3 svg {
     background-color: #abd3da; }
+
+.svg-container-4 {
+  height: 24vw;
+  width: 25vw;
+  overflow: hidden; }
